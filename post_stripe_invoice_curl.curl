@@ -1,0 +1,3 @@
+curl https://api.stripe.com/v1/invoices \
+  -u sk_test_51ILOw8KS2RWf4oGehYx1L71Ub0bj5sR3FC2vQk9AwqQhtT22tUsi74iSpLkoqxCOG2rxtK0hlitCzAoQl514DN6R00PoavrkkK: \
+  -d customer=cus_IxKQQSL1gUxuiV
